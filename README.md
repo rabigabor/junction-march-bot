@@ -12,6 +12,4 @@ The bot works in Telegram, and it has the following commands:
     /guess {number} - THe bot will think of a random number, you have to guess it.
     /rps {rock|paper|scissors} - Play "Rock, Paper, Scissors" with the bot!
 
-You can contact me at rabigabor@gmail.com
-
 The bot's telegram link: https://web.telegram.org/#/im?p=@BotivatorBot
